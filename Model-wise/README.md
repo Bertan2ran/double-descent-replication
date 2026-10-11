@@ -34,7 +34,7 @@ The CNN uses four convolutional layers with channel widths
   evaluated model widths.
 
 ### Running the Experiment
-Make sure you installed the following packages
+Make sure that you installed the following packages and run following
 ```bash
 pip install torch torchvision numpy matplotlib
 python model_wise_test.py
