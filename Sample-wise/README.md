@@ -4,7 +4,13 @@ Replication of sample-wise non-monotonicity on CIFAR-10 with a 5-layer CNN (k=24
 
 ---
 
-## 1. Requirements
+## 1. Navigatet to Directory
+Navigate into directory:
+```bash
+cd Sample-wise
+```
+
+## 2. Requirements
 
 Install required dependencies:
 
@@ -13,7 +19,7 @@ pip install -r requirements.txt
 ```
 ---
 
-## 2. Reproduce Figures
+## 3. Reproduce Figures
 
 Generate the report plots directly from the pre-computed CSV logs in `results/`:
 
@@ -23,7 +29,7 @@ python plot_sample_descent.py
 
 ---
 
-## 3. Training Models
+## 4. Training Models
 
 ### Train a Single Run (e.g., n = 12,500)
 ```bash
