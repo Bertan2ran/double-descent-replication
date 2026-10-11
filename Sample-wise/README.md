@@ -9,8 +9,7 @@ Replication of sample-wise non-monotonicity on CIFAR-10 with a 5-layer CNN (k=24
 Install required dependencies:
 
 ```bash
-pip install torch torchvision pandas matplotlib numpy
-```
+pip install -r requirements.txt```
 
 ---
 
