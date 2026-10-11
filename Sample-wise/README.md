@@ -4,7 +4,7 @@ Replication of sample-wise non-monotonicity on CIFAR-10 with a 5-layer CNN (k=24
 
 ---
 
-## 1. Navigatet to Directory
+## 1. Navigate to Directory
 Navigate into directory:
 ```bash
 cd Sample-wise
